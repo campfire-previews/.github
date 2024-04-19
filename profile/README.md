@@ -10,10 +10,10 @@ Campfire integrates a feedback interface directly into each deploy preview, allo
 
 ## Getting Started
 
-- **Campfire Case Study** - For a detailed dive into the Campfire app, please read our [case study](https://campfire-previews.github.io/)
-- **Campfire CLI Repo** - To start using Campfire, follow the setup instructions in our [installation guide](https://github.com/campfire-previews/campfire-cli). Campfire's CLI tool facilitates easy configuration and management of the deploy environment.
-- **Campfire Frontend Repo** - The [repo for Campfire's frontend can be viewed here](https://github.com/campfire-previews/campfire-app)
-- **Campfire Demo**- You can also view a [demo version of Campfire here](#)
+- **[Campfire Case Study](https://campfire-previews.github.io/)** - For a detailed dive into the Campfire app, please read our [case study](https://campfire-previews.github.io/)
+- **[Campfire CLI Repo](https://github.com/campfire-previews/campfire-cli)** - To start using Campfire, follow the setup instructions in our [installation guide](https://github.com/campfire-previews/campfire-cli). Campfire's CLI tool facilitates easy configuration and management of the deploy environment.
+- **[Campfire Frontend Repo](https://github.com/campfire-previews/campfire-app)** - The repo for [Campfire's frontend can be viewed here](https://github.com/campfire-previews/campfire-app)
+- **[Campfire Demo](#)**- You can also view a [demo version of Campfire here](#)
 
 ## Features
 - **Automated Deploy Previews** - For each pull request, Campfire automatically generates a deploy preview accessible via a public URL.
