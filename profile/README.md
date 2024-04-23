@@ -39,6 +39,9 @@ Campfire leverages several technologies:
 - **GitHub User Authorization** - Streamline user identification by linking comments directly to GitHub accounts.
 - **Cost Optimization** - Investigate methods to merge the feedback interface with the client app to reduce operational costs.
 
+## License
+Campfire is released under the [MIT License](https://github.com/campfire-previews/.github/blob/main/profile/LICENSE).
+
 ## Campfire Team
 
 [Allen Lee](#) • Software Engineer • Leonia, NJ
