@@ -44,10 +44,10 @@ Campfire is released under the [MIT License](https://github.com/campfire-preview
 
 ## Campfire Team
 
-[Allen Lee](#) • Software Engineer • Leonia, NJ
+[Allen Lee](https://github.com/6207ALS) • Software Engineer • Leonia, NJ
 
-[Rachele Lang](#) • Software Engineer • Denver, CO
+[Rachele Lang](https://ramlang.github.io) • Software Engineer • Denver, CO
 
-[Tess Lockey](#) • Software Engineer • Las Vegas, NV
+[Tess Lockey](https://github.com/treskey) • Software Engineer • Las Vegas, NV
 
 [Weston Ludeke](https://westonludeke.github.io) • Software Engineer • Houston, TX
